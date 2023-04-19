@@ -4,7 +4,7 @@
 /react-front/node_modules
 
 /react-front/.pnp
-/react-front.pnp.js
+/react-front/.pnp.js
 
 # testing
 /react-front/coverage
